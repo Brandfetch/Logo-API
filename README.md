@@ -4,7 +4,7 @@ Brandfetch's Logo API offers access to the world's largest and most current logo
 
 Read our docs to integrate our APIs. Here are our different links:
 
-[Visit our Website](https://brandfetch.com/developers/logo-api) &bull; [Read the Docs](https://docs.brandfetch.com) &bull; [Migrate from Clearbit](https://brandfetch.com/developers/resources/migrating-from-clearbit-logo-api)
+[Visit our Website](https://brandfetch.com/developers/logo-api) &bull; [Read the Docs](https://docs.brandfetch.com) &bull; [Migrate from Clearbit](https://docs.brandfetch.com/migrations/migrate-from-clearbit-logo-api)
 
 ## Why Choose Brandfetch?
 Make your users feel at home with a few lines of code. Show the right logo, autofill brand names, and onboard users faster with the best dataset on brands. Transform your customer journeys with our powerful Brand and Logo APIs. Access comprehensive brand data to create personalized, branded experiences that engage users and drive conversions.
